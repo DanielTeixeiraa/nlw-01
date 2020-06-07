@@ -147,8 +147,22 @@ $ npm start
 
 ### 📱Rodando a aplicação mobile 
 
-🚧 Em construção... 🚧
+```bash
+# Clone este repositório
+$ git clone https://github.com/DanielTeixeiraa/nlw-01
 
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd nlw-01
+
+# Vá para a pasta da aplicação Mobile
+$ cd mobile
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm start
+```
 ## 😯 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
