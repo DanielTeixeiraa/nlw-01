@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 import "./style.css";
 
 import logo from "../../assets/logo.svg";
-import background from "../../assets/home-background.svg";
 
 const Home = () => {
   return (
